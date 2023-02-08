@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A calculadora de gorjetas é uma aplicação que ajuda a galera a fazer a divisão do valor de gorjeta no final do rolê
+A calculadora de gorjetas é uma aplicação que ajuda a galera a fazer a divisão do valor de gorjeta no final do rolê, baseado na qualidade do atendimento recebido
 
 - [Visite o projeto online]()
 
