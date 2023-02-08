@@ -13,7 +13,7 @@ Programa desenvolvido no curso Start da OneBitCode<br/>
 </p>
 
 <p align="center">
-  <img alt="Calculadora" src="https://user-images.githubusercontent.com/30679375/217421392-7f69474f-4427-4c49-864c-7d347751f6aa.JPG">
+  <img alt="Calculadora" src="https://user-images.githubusercontent.com/30679375/217421392-7f69474f-4427-4c49-864c-7d347751f6aa.JPG" height="25%" width="25%">
 </p>
 
 ## 🚀 Tecnologias
