@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A calculadora de gorjetas é uma aplicação que ajuda a galera a fazer a divisão do valor de gorjeta no final do rolê, baseado na qualidade do atendimento recebido
 
-- [Visite o projeto online]<a href="https://rennanlg.github.io/calculadoraGorjeta/" target="_blank"> 💲calculadora</a>
+- [Visite o projeto online]<a href="https://rennanlg.github.io/calculadora-gorjeta/" target="_blank"> 💲calculadora</a>
 
 
